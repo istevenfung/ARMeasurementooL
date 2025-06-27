@@ -1,13 +1,18 @@
 【Privacy Policy】
 
-By using《ARMeasurementooL》App, you agree to the following terms:
+By using《ARMeasurementooL》App, we respect your privacy:
 
-No Personal Data Collection We do not collect, store, or process any personally identifiable information (PII) from users.
-Use at Your Own Risk The《ARMeasurementooL》App is provided "as is" without warranties of any kind. While we aim for accuracy and reliability, we are not liable for any damages resulting from the use or inability to use the《ARMeasurementooL》App.
+We do not collect, store, or process any personally identifiable information (PII) from users.
+We do not use cookies or tracking technologies.
+We do not collect IP addresses, device information, or location data.
+We do not integrate with third-party analytics or advertising services.
 
 
 【Terms of Use】
 
-By using《Take Bus Go》app, you agree to be bound by this Terms of Use and by our Privacy Policy.
-The Hong Kong bus routes and ETA data come from DATA.GOV.HK, and the intellectual property rights are owned by the Government of the Hong Kong Special Administrative Region. 
-《Take Bus Go》do not response for the accuracy of the data of any third part.
+By using《ARMeasurementooL》App, you agree to the following:
+
+You use the service at your own risk.
+The service is provided “as is” without warranties of any kind.
+We are not liable for any damages arising from the use or inability to use the service.
+We reserve the right to update these terms at any time without notice.
